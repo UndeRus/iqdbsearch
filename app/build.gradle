@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "org.iqdb"
+        applicationId "org.iqdb.v2"
         minSdkVersion 7
         targetSdkVersion 23
     }
