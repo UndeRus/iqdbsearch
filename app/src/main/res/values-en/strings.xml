@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IqdbSearch</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="best">Best</string>
+    <string name="possible">Possible</string>
+    <string name="not_found">Not found</string>
+    <string name="result">Result</string>
+    <string name="additional">Additional</string>
+    <string name="search_by_url">Search by url</string>
+    <string name="search_by_file">Search by file</string>
+    <string name="file_not_found">File not found</string>
+    <string name="image_must_be_less_8192_kb">Image must be less than 8192kb</string>
+</resources>

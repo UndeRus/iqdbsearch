@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IqdbSearch</string>
+    <string name="uploaded">Загружено</string>
+    <string name="best">Лучший</string>
+    <string name="possible">Возможный</string>
+    <string name="not_found">Не найдено</string>
+    <string name="result">Результат</string>
+    <string name="additional">Дополнительно</string>
+    <string name="search_by_url">Поиск по ссылке</string>
+    <string name="search_by_file">Поиск по файлу</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="image_must_be_less_8192_kb">Изображение должно быть меньше 8192кб</string>
+    <string name="similarity_value">%s%%</string>
+    <string name="size_value">%1$dx%2$d</string>
+</resources>
